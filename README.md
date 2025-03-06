@@ -1,4 +1,5 @@
 ![gitartwork](gitartwork.svg)
-![gitartwork](https://raw.githubusercontent.com/ShehrozArt/main/gitartwork.svg)
+![gitartwork](https://raw.githubusercontent.com/shahrozfazal/ShehrozArt/main/gitartwork.svg)
+
 
 
